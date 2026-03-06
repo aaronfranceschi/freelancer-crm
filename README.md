@@ -1,11 +1,3 @@
-Here is your **cleaned README** with:
-
-* ❌ **Contact/Developer section removed**
-* ❌ **All emojis removed**
-* ✔ Everything else preserved
-
----
-
 # FreelancerCRM
 
 **FreelancerCRM** is an advanced-level Minimum Viable Product (MVP) version of a modern CRM web application built for learning purposes and upskill reasons, and includes an overview of client relationships, activities, and communication — all presented in a user-friendly, responsive dashboard with a drag-and-drop Kanban interface.
@@ -381,7 +373,3 @@ terraform apply
 can recreate the full Vercel + Heroku infrastructure, including CI configuration and secrets.
 
 This allows anyone to fork the repository and spin up an identical environment quickly.
-
----
-
-If you want, I can also show you **3 small changes that make this README look much more professional on GitHub** (better for recruiters and Upwork clients).
